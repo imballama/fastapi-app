@@ -12,6 +12,7 @@ python-dotenv = "*"
 pytest = "*"
 passlib = {extras = ["bcrypt"], version = "*"}
 requests = "*"
+pre-commit = "*"
 
 [dev-packages]
 
